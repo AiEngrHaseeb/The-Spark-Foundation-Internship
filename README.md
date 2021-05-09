@@ -24,3 +24,13 @@ I will be implementing this with the help of K-Means Clustering algorithm. </br>
 
 ### What are we supposed to do with the given dataset?
 We need to predict the optimum number of clusters and it's visualization.
+
+## Technical : Task 3 - Exploratory Data Analysis - Retail (Level - Beginner)
+### Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+I will be doing this with the help of python libraries i.e. matplotlib, plotly, plotnine and seaborn. 
+<li>Dataset can be found at : https://bit.ly/3i4rbWl.</br>
+<li>Code for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task3/Task_3_TSF(Exploratory%20Data%20Analysis%20-%20Retail).ipynb">Task_3_Code</a>.</br>
+<li>Video for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task3/TSF%20Task3.mp4">Task_3_Video</a>.</br>
+
+### What are we supposed to do with the given dataset?
+As a business manager, we will try to find out the weak areas where we can work tomake more profit. Also, what all business problems can be derived by exploring the data.
