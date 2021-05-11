@@ -34,3 +34,18 @@ I will be doing this with the help of python libraries i.e. matplotlib, plotly, 
 
 ### What are we supposed to do with the given dataset?
 As a business manager, we will try to find out the weak areas where we can work tomake more profit. Also, what all business problems can be derived by exploring the data.
+
+## Technical : Task 4 - Exploratory Data Analysis - Terrorism (Level - Intermediate)
+### Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+I will be doing this with the help of seaborn, plotly and folium libraries in python. 
+<li>Dataset can be found at : https://bit.ly/2TK5Xn5.</br>
+<li>Code for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task4/Task_4_TSF(Exploratory%20Data%20Analysis%20-%20Terrorism).ipynb">Task_4_Code</a>.</br>
+<li>Video for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task4/TSF%20Task4.mp4">Task_4_Video</a>.</br>
+
+### What are we supposed to do with the given dataset?
+As a security/defense analyst, we will try to find out the hot zone of terrorism. Also, what all security issues and insights can be derived by EDA.
+
+
+
+
+
